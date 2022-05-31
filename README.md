@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @kieranjessup
-- 👀 I’m interested in Information Security and Software Engineering
-- 🌱 I’m currently learning Cybersecurity at Charles Sturt University
+<h1>Hi, I'm Kieran! <br/><a href="https://www.linkedin.com/in/kieranjessup/">Cybersecurity Professional</a></h1>
 
-<!---
-kieranjessup/kieranjessup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2>👨‍💻 Cybersecurity Projects</h2>
+
+- <b>Placeholder ()</b>
+  - 
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/kieranjessup/
+
