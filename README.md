@@ -2,7 +2,7 @@
 
 www.k1t.io
 
-HackTheBox: https://app.hackthebox.com/profile/81315
+HackTheBox: https://app.hackthebox.com/profile/81315 <br />
 TryHackMe Profile: https://tryhackme.com/p/fourohfour
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
