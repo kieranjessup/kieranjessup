@@ -1,4 +1,9 @@
-<h1>Hi, I'm Kieran! <br/><a href="https://www.linkedin.com/in/kieranjessup/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Kieran! <br/></h1>
+
+www.k1t.io
+
+HackTheBox: https://app.hackthebox.com/profile/81315
+TryHackMe Profile: https://tryhackme.com/p/fourohfour
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
