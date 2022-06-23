@@ -11,8 +11,5 @@ TryHackMe Profile: https://tryhackme.com/p/fourohfour
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] https://www.linkedin.com/in/kieranjessup/
 
-[website]: https://k1t.io
-[linkedin]: [https://linkedin.com/in/hsaglani](https://www.linkedin.com/in/kieranjessup/)
-[github]: https://github.com/kieranjessup
