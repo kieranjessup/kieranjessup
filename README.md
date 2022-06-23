@@ -6,6 +6,7 @@ HackTheBox: https://app.hackthebox.com/profile/81315 <br />
 TryHackMe Profile: https://tryhackme.com/p/fourohfour
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
+Azure Sentinel, Honeypot: https://www.k1t.io/ghost/#/editor/post/621975c77d383a17dfcb9e74
 
 - <b>Placeholder ()</b>
   - 
