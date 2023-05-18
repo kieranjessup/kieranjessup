@@ -5,7 +5,7 @@
 Working towards Offensive Security Engineering / Security Engineer. Currently spending most of my time preparing for the OSCP exam. 💡
 
 <ul>
-<li>👨‍🎓 Graduated from Charles Sturt University in Cyber Security.</li>
+<li>👨‍🎓 Grad Cert from Charles Sturt University in Cyber Security.</li>
 <li>🌏 Australia </li>
 </ul>
 
@@ -18,9 +18,9 @@ You can reach me at 👇
 <div align="center">
   
 ## <img src="https://media.giphy.com/media/YMwJF1OQAlbnf6HFjd/giphy.gif" width="50" height="45"> Trophies
-| OSCP (2023) | Dante (HTB) 36% |
-|-----------|------------|
-|<a target="_blank" href="https://www.credential.net/d47f0b7b-cb87-4dc3-b4ea-498df7fa07aa"><img src="OSCP.png"></a>| <a target="_blank" href="https://app.hackthebox.com/profile/550483"><img src="dante.png"></a>| 
+| Security+ | OSCP (2023) | Dante (HTB) 36% |
+|-----------|-----------|------------|
+|<a target="_blank" href="#"><img src="sec+.jpg"></a>|<a target="_blank" href="#"><img src="OSCP.png"></a>| <a target="_blank" href="#"><img src="dante.png"></a>| 
 
 ---
   
