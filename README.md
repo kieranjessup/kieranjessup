@@ -20,7 +20,7 @@ You can reach me at 👇
 ## <img src="https://media.giphy.com/media/YMwJF1OQAlbnf6HFjd/giphy.gif" width="50" height="45"> Trophies
 | Security+ | OSCP (WIP) | Dante (HTB)|
 |-----------|-----------|------------|
-|<a target="_blank" href="#"><img src="sec.png"></a>|<a target="_blank" href="#"><img src="OSCP.png"></a>| <a target="_blank" href="#"><img src="dante.png"></a>| 
+|<a target="_blank" href="#"><img src="sec.png"></a>|<a target="_blank" href="#"><img src="OSCP.png"></a>| <a target="_blank" href="https://app.hackthebox.com/profile/81315"><img src="dante.png"></a>| 
 
 ---
   
