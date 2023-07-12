@@ -2,7 +2,7 @@
 
 ### Glad to see you here! &nbsp; ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kieranjessup.kieranjessup)
 
-Working towards Offensive Security Engineering / Security Engineer. Currently spending most of my time preparing for the OSCP exam. 💡
+Working towards Offensive Security Engineering / Security Engineer. Currently studying for the OSWP💡
 
 <ul>
 <li>👨‍🎓 Grad Cert from Charles Sturt University in Cyber Security.</li>
