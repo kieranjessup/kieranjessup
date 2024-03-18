@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkingofhearts=self.webpackChunkkingofhearts||[]).push([[123],{6346:e=>{e.exports=JSON.parse('{"permalink":"/kieranjessup/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

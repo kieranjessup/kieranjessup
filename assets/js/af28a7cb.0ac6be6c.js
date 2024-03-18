@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkingofhearts=self.webpackChunkkingofhearts||[]).push([[6059],{4429:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/kieranjessup/blog/tags/docusaurus","allTagsPath":"/kieranjessup/blog/tags","count":4,"unlisted":false}')}}]);
