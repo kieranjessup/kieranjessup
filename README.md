@@ -6,7 +6,11 @@ Working towards Offensive Security / Security Engineer. Currently studying for t
 
 <ul>
 <li>👨‍🎓 Grad Cert from Charles Sturt University in Cyber Security.</li>
+<li>📃 OSCP</li>
+<li>📃 eJPT</li>  
+<li>📃 ITIL</li>
 <li>🌏 Australia </li>
+
 </ul>
 
 You can reach me at 👇
