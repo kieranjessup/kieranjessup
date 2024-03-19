@@ -2,7 +2,7 @@
 
 ### Glad to see you here! &nbsp; ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kieranjessup.kieranjessup)
 
-Working towards Offensive Security / Security Engineer. Currently studying for the OSWP💡
+Working towards Offensive Security / Security Engineer. Currently studying for the BTL1💡
 
 <ul>
 <li>👨‍🎓 Grad Cert from Charles Sturt University in Cyber Security.</li>
