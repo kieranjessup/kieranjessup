@@ -2,7 +2,7 @@
 
 ### Glad to see you here! &nbsp; ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kieranjessup.kieranjessup)
 
-Working towards Analyst. Currently studying for the BTL1💡
+Cybers💡
 
 <ul>
 <li>👨‍🎓 Grad Cert from Charles Sturt University in Cyber Security.</li>
@@ -15,7 +15,7 @@ Working towards Analyst. Currently studying for the BTL1💡
 
 You can reach me at 👇
 
-[![Blog](https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=ghost&logoColor=white)](https://www.k1t.io/)
+[![Blog](https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=ghost&logoColor=white)](https://pretengineer.au/)
 [![Linkedin:](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kieranjessup/)
 [![HackTheBox:](https://img.shields.io/badge/hackthebox-a3e54a?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/81315)
 
